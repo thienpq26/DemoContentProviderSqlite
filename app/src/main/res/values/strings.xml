@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">DemoContentProviderSqlite</string>
+    <string name="app_name">BaseApp</string>
+    <string name="hint_enter_name">Enter name</string>
+    <string name="hint_enter_phone">Enter phone</string>
+    <string name="hint_enter_address">Enter address</string>
+    <string name="hint_enter_email">Enter email</string>
+    <string name="title_create">Create</string>
+    <string name="title_reset">Reset</string>
+    <string name="title_update_student">Update student</string>
+    <string name="title_emaill">Emaill</string>
+    <string name="title_address">Address</string>
+    <string name="title_phone">Phone</string>
+    <string name="title_name">Name</string>
+    <string name="title_update">Update</string>
+    <string name="title_close">Close</string>
+    <string name="title_new_student">New student</string>
 </resources>
